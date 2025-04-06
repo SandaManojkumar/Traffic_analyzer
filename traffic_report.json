@@ -1,0 +1,4125 @@
+[
+    {
+        "timestamp_sec": 9.67,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 9.78,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 9.88,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 9.98,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 10.1,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 5
+    },
+    {
+        "timestamp_sec": 10.23,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 5
+    },
+    {
+        "timestamp_sec": 10.32,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 5
+    },
+    {
+        "timestamp_sec": 10.4,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 10.49,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 10.59,
+        "car_count": 5,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 10.69,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 10.85,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 10.94,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 11.04,
+        "car_count": 5,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 11.14,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 7
+    },
+    {
+        "timestamp_sec": 11.25,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 11.35,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 11.45,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 11.53,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 11.62,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 11.71,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 11.8,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 11.89,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 11.99,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.08,
+        "car_count": 5,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.17,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.26,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.35,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.45,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.55,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.65,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.74,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.84,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 12.93,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.03,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.12,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.21,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.3,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.38,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.47,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 13.55,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.64,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 13.73,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 13.81,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 13.89,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 13.97,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 14.05,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 14.12,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 14.2,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 14.29,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 14.37,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 14.45,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 14.52,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 14.6,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 14.68,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 14.76,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 14.86,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 14.93,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.01,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.09,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 15.17,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 15.25,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 15.32,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.4,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.48,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.56,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.71,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.79,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.86,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 15.95,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 16.04,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 16.12,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 16.2,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 16.28,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 16.36,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 16.45,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 16.52,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 16.6,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 16.69,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 16.76,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 16.84,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 16.92,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.0,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.09,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.18,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.26,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.34,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.41,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.5,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.58,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.66,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 17.73,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 17.8,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 17.88,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 17.96,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.04,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.11,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.19,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.28,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.36,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.44,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.52,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.6,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.68,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.76,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.83,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 18.91,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 18.99,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 19.07,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 19.15,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 19.23,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 19.3,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 19.39,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 19.48,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 19.56,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 19.63,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 19.71,
+        "car_count": 5,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 19.79,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 19.87,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 19.94,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.02,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.1,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.18,
+        "car_count": 5,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.26,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.33,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.41,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 20.49,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.58,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.66,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.75,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.82,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 20.96,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.04,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.12,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.2,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.28,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.36,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.43,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.51,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.59,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.68,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.78,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 21.86,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 21.93,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.02,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.11,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.2,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.29,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.38,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.45,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.53,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.62,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.72,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 22.84,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 22.96,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 23.05,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 23.13,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.23,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.33,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 23.42,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.51,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.61,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.72,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.81,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.9,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 23.99,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.11,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.19,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.32,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.42,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.51,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.6,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 24.69,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 24.79,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.88,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 24.97,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 25.06,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 25.22,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 25.35,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 25.46,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 25.58,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 25.72,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 25.82,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 25.92,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.02,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.11,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.21,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.31,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.42,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.53,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.63,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.73,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.82,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 26.91,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.08,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.18,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.27,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.36,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.45,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.59,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.68,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.77,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.87,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 27.97,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.06,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.15,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.24,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.33,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.42,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.51,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.61,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.72,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.81,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.89,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 28.97,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.05,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.13,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.21,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.28,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.36,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.44,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.52,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.6,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.68,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.76,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.85,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 29.94,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.01,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.09,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.16,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.25,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.32,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.41,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.48,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.56,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.64,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.72,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.8,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.88,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 30.96,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.05,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.13,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.2,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.29,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.36,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.44,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 31.52,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 31.6,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.68,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.76,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.84,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.91,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 31.99,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.13,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.22,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.3,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.39,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.47,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.54,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.62,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.71,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.8,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.89,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 32.98,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 33.07,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 33.15,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 33.22,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 33.31,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 33.4,
+        "car_count": 4,
+        "bus_count": 2,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 33.48,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 33.56,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 33.64,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 33.72,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 33.8,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 33.87,
+        "car_count": 4,
+        "bus_count": 2,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 33.96,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.03,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.11,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.19,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.26,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.34,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.42,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.53,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.6,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 4,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.69,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.76,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.84,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 34.92,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.0,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.07,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.15,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.23,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.3,
+        "car_count": 6,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.38,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.47,
+        "car_count": 5,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.56,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.67,
+        "car_count": 5,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.76,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.85,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 35.93,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.02,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.11,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.19,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.27,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.34,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.42,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.49,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.57,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.65,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.73,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.82,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 36.9,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.04,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.13,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.2,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.28,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.36,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.43,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.52,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.59,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.68,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.75,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.83,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 37.92,
+        "car_count": 4,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 38.01,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 38.09,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 38.16,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 38.24,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 3,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 38.32,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 38.4,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 38.48,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 38.55,
+        "car_count": 4,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 38.66,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 38.75,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 38.83,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 38.92,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.01,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 39.12,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.22,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.3,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.39,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 39.48,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 39.59,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.69,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.78,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.88,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 39.96,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.04,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.12,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.21,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.33,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.44,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.54,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.64,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.76,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.86,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 40.96,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.06,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.14,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.24,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.32,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.43,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.53,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.62,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.71,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.8,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.89,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 41.98,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.07,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.16,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.24,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.33,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.41,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 3,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.5,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.61,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.78,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.87,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 42.95,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.03,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.11,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.19,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.28,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.37,
+        "car_count": 1,
+        "bus_count": 2,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.46,
+        "car_count": 1,
+        "bus_count": 2,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.55,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.64,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.74,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.84,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 43.93,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.02,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.11,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.21,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.3,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.39,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.48,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.58,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.66,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.74,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.82,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.92,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 44.99,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.07,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.15,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.23,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.31,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.39,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.47,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.54,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.62,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.7,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.78,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.86,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 45.94,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.02,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.11,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.19,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.27,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.34,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.42,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.5,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.58,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.65,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.73,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.81,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.89,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 46.97,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.04,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.12,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.22,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.31,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.38,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.47,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.54,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.62,
+        "car_count": 3,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.7,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.84,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.92,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 47.99,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.07,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.15,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.23,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.32,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.4,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 48.48,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.55,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.63,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.71,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 48.79,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 48.87,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 48.94,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 49.02,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.1,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.18,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.25,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.33,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.41,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.5,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.59,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.67,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.74,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.82,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.9,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 49.98,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.05,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.13,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.21,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.29,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.36,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.44,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.52,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.6,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.7,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.78,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.85,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 50.94,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 3,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.01,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.09,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.17,
+        "car_count": 3,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.24,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.32,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.4,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.48,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 51.55,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.63,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.71,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.79,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.88,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 51.96,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 52.04,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 52.11,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 52.19,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 52.27,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 52.35,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 52.43,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 52.5,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 52.58,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 52.73,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 52.8,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 52.88,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 52.97,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.06,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.13,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.21,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.32,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.45,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.54,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.62,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.7,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.78,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.86,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 53.93,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 2,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.01,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.1,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.19,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.28,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.35,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.43,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.5,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.59,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.69,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.77,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.86,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 54.95,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.04,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.13,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.23,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.33,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.42,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.5,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.6,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.69,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.79,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.88,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 55.96,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 56.03,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.12,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.2,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.3,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.4,
+        "car_count": 0,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.5,
+        "car_count": 2,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.59,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 56.67,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.77,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 1,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.86,
+        "car_count": 2,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 56.94,
+        "car_count": 0,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.03,
+        "car_count": 0,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.12,
+        "car_count": 0,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.21,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.3,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.38,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.46,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.58,
+        "car_count": 0,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.68,
+        "car_count": 0,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 57.77,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 57.87,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 1,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 57.95,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 58.04,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 58.13,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 58.21,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 58.38,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 58.47,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 58.56,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 58.64,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 58.75,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 58.84,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 58.93,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 59.01,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 59.09,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 59.17,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 59.26,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 59.34,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 59.44,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 59.52,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 59.61,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 4
+    },
+    {
+        "timestamp_sec": 59.69,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 59.78,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 59.88,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 59.99,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 60.08,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 60.16,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 60.24,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 1
+    },
+    {
+        "timestamp_sec": 60.34,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 60.44,
+        "car_count": 1,
+        "bus_count": 1,
+        "truck_count": 0,
+        "person_count": 3
+    },
+    {
+        "timestamp_sec": 60.54,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 60.61,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 60.69,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 60.77,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 0
+    },
+    {
+        "timestamp_sec": 60.84,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 2
+    },
+    {
+        "timestamp_sec": 60.92,
+        "car_count": 1,
+        "bus_count": 0,
+        "truck_count": 0,
+        "person_count": 3
+    }
+]
